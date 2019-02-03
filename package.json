@@ -39,7 +39,7 @@
     "unit": "tape test/*.js"
   },
   "dependencies": {
-    "bs58": "^4.0.0",
+    "bs58": "https://github.com/coreyphillips/bs58",
     "create-hash": "^1.1.0",
     "safe-buffer": "^5.1.2"
   },
